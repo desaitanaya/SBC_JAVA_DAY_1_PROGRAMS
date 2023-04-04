@@ -1,6 +1,6 @@
 package com.day1;
 
-public class Block {
+public class Problem_6_Static_Block {
 	static int x=10;
 	
 	public static void main (String[] args) {
